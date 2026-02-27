@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Karthik Boppadapu 👋  
 
-<!--
-**kartik-9581/kartik-9581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (2022–2026) | Aspiring Data Analyst  
+📍 Andhra Pradesh, India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Detail-oriented Data Analyst skilled in **Power BI, Excel, SQL, and Python** with hands-on experience in dashboard development, automation, and NLP-based systems. Passionate about transforming raw data into actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+**Virtual Internship – TechSaksham (Microsoft & SAP, AICTE)**  
+- Developed a Resume Screening System using Python  
+- Automated candidate ranking using NLP techniques  
+- Gained exposure to web development & data processing  
+
+## 🛠️ Skills
+- **Languages:** Python, HTML, CSS, MySQL  
+- **Analytics & Visualization:** Power BI, Excel, Data Cleaning  
+- **Tools:** VS Code, GitHub  
+- **Concepts:** TF-IDF, Cosine Similarity, Dashboard KPIs  
+
+## 📊 Projects
+🔹 **Chocolate Sales Dashboard (Power BI)**  
+Built an interactive dashboard analyzing sales, profit & YoY trends.
+
+🔹 **Resume Screening & Candidate Ranking Web App**  
+Streamlit-based NLP app reducing manual shortlisting time by 70%.
+
+## 🏆 Achievements
+- Smart India Hackathon Participant  
+- NSS Club Member  
+
+## 📜 Certifications
+- IBM – Introduction to Python for Data Science  
+- HP LIFE – Data Analytics Certification  
+
+---
+💡 *Open to Data Analyst & Business Intelligence opportunities*
